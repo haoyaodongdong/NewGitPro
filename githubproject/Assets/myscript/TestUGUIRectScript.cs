@@ -21,5 +21,6 @@ public class TestUGUIRectScript : MonoBehaviour
         Debug.Log("rect.anchorpostion" + trans.anchoredPosition);
         Debug.Log("rec.offmax" + trans.anchorMax);
         Debug.Log("rect.offmin" + trans.offsetMin);
+        Debug.Log("testtesttest");
     }
 }
